@@ -7,7 +7,10 @@ the main is named 'original' or something
 Current Chapter:
 01 - docker-terraform
 Completed:
-1.1.1
-1.2.1
-1.2.2
-1.2.3
+1.1.1. - Intro to GCP
+1.2.1 - Intro to Docker
+1.2.2 - Ingesting NY Taxi Data to Postgres
+1.2.3 - Connecting pgadmin and Postgres
+watched zach wilson video on parquet file format + data lakes
+1.2.2 - Re-ingesting db using parquet format
+1.2.4 - Dockerizing the Ingestion Script

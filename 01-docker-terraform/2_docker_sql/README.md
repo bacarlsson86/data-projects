@@ -504,3 +504,6 @@ ORDER BY
     "DOLocationID" ASC
 LIMIT 100;
 ```
+
+
+data dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
