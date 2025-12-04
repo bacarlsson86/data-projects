@@ -14,3 +14,5 @@ Completed:
 watched zach wilson video on parquet file format + data lakes
 1.2.2 - Re-ingesting db using parquet format
 1.2.4 - Dockerizing the Ingestion Script
+1.2.5 - Running postgres and pgadmin with docker-compose
+
