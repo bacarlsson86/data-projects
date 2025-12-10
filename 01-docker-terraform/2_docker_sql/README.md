@@ -290,7 +290,8 @@ from sqlalchemy import create_engine
 engine = create_engine('postgresql://root:root@localhost:5432/ny_taxi')
 engine.connect()
 
-!wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/misc/taxi_zone_lookup.csv
+# updated address
+!wget https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv
 
 df_zones = pd.read_csv("taxi_zone_lookup.csv")
 df_zones.to_sql(name='zones', con=engine, if_exists='replace')

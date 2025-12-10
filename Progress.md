@@ -15,4 +15,6 @@ watched zach wilson video on parquet file format + data lakes
 1.2.2 - Re-ingesting db using parquet format
 1.2.4 - Dockerizing the Ingestion Script
 1.2.5 - Running postgres and pgadmin with docker-compose
-
+1.2.6 - SQL Refresher
+1.3.1 - Terraform Primer
+1.3.2 - Terraform Basics
