@@ -1,0 +1,15 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "ny_taxi_data",
+            "Group": "Servers",
+            "Port": 5432,
+            "Username": "root",
+            "Password": "root",
+            "Host": "pgdatabase",
+            "MaintenanceDB": "postgres",
+            "Favorite": true,
+            "ConnectionParameters": {
+                "sslmode": "prefer",
+                "connect_timeout": 10
+            }}}}
