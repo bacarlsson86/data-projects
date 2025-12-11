@@ -18,5 +18,5 @@ watched zach wilson video on parquet file format + data lakes
 1.2.6 - SQL Refresher
 1.3.1 - Terraform Primer
 1.3.2 - Terraform Basics
-
+1.3.3 - Terraform Variables
 1.4.1 - Setting up environment on google
