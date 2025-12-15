@@ -79,3 +79,5 @@ JOIN zones zdo
 ON g."PULocationID" = zdo."LocationID"
 WHERE zpu."Zone" = 'East Harlem North'
 )
+
+7. terraform init, terraform apply -auto-approve, terraform destroy
